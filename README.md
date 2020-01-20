@@ -24,6 +24,7 @@
 - SOA
 ### DBMS
 - SQL
+- POSTGRES
 ### Project Management
 - Agile
 - Scrum
