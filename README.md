@@ -29,3 +29,5 @@
 - Agile
 - Scrum
 - Kanban
+### Machine Learning
+- Artificial Neural Networks
