@@ -11,3 +11,27 @@ Docker Bölüm 1: Nedir, Nasıl Çalışır, Nerede Kullanılır? [Gökhan Şeng
 `docker images`
 `docker run hello-world`
 `docker ps`
+
+### ubuntu imajından container ayağa kaldırma
+* docker conteiner'ı ayağa kaldırma.
+`docker run ubuntu`
+`docker ps`
+`docker run -it ubuntu`
+
+> * ubuntu içi bash işlemleri.
+> `ls`
+`cd home`
+`nano first-try.py`
+`apt-get install nano`
+`apt-get install`
+`apt-get update`
+`apt-get install nano`
+`nano first-try.py`
+> * nano text editörü işlemleri (işlem bittikten sonra ctrl + x ile çıkılacak)
+   >> print "bu bir ubuntu containerinde calisan python scriptidir. 
+>
+> `python first-try.py`
+`apt-get install python`
+`python first-try.py`
+`exit`
+
