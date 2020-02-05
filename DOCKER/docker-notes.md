@@ -2,7 +2,7 @@
 
 ### Docker kısa açıklamalar
 * Anlatımın girişinde bahsettiğim bilgilerin geneline bu paylaşımdan ulaşabilirsiniz. 
-Docker Bölüm 1: Nedir, Nasıl Çalışır, Nerede Kullanılır? [Gökhan Şengün Blog'u](https://gokhansengun.com/docker-nedir-nasil-calisir-nerede-kullanilir/)
+Docker Bölüm 1: Nedir, Nasıl Çalışır, Nerede Kullanılır? [Gökhan Şengün Blog'u 1](https://gokhansengun.com/docker-nedir-nasil-calisir-nerede-kullanilir/)
 * DockerHub üzerinden gerekli kurulum yapıldıktan sonra doğru kurulum olup olmadığını `docker version` komutuyla görebilirsiniz.
 
 ### DockerHub'dan indirilen hello-world imajı ayağa kaldırma
@@ -35,3 +35,6 @@ Docker Bölüm 1: Nedir, Nasıl Çalışır, Nerede Kullanılır? [Gökhan Şeng
 `python first-try.py`
 `exit`
 
+### Infrastructure as a Code ve Dockerfile
+
+* Docker Bölüm 2: Yeni bir Docker Image'ı Nasıl Hazırlanır? [Gökhan Şengün Blog'u 2](https://gokhansengun.com/docker-yeni-image-hazirlama/)
