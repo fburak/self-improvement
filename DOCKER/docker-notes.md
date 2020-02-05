@@ -2,8 +2,16 @@
 
 ### Docker kısa açıklamalar
 * Anlatımın girişinde bahsettiğim bilgilerin geneline bu paylaşımdan ulaşabilirsiniz. 
-Docker Bölüm 1: Nedir, Nasıl Çalışır, Nerede Kullanılır? [Gökhan Şengün Blog'u 1](https://gokhansengun.com/docker-nedir-nasil-calisir-nerede-kullanilir/)
+[Docker Bölüm 1: Nedir, Nasıl Çalışır, Nerede Kullanılır?](https://gokhansengun.com/docker-nedir-nasil-calisir-nerede-kullanilir/)
 * DockerHub üzerinden gerekli kurulum yapıldıktan sonra doğru kurulum olup olmadığını `docker version` komutuyla görebilirsiniz.
+
+* [Docker official page](https://www.docker.com/)
+* [Dockerhub](https://hub.docker.com/)
+* [Docker Dokümanlar](https://docs.docker.com/)
+
+* DevOps ve Docker ile ilgili konularda Gökhan Şengün'ün kişisel bloguna, medium sayfasına ve youtube üzerindeki sayfalarına erişebileceğiniz sayfa. [Gökhan Şengün Blog'u](https://gokhansengun.com/)
+
+* Tarık Güney - Senior Software Engineering Manager at Motorola Solutions. [Tarık Güney'in Docker Anlattığı youtube playlist'i](https://www.youtube.com/watch?v=isbsABbZghs&list=PL_Z0TaFYSF3LTfMIRjPUlVoUipQA0JlL2)
 
 ### DockerHub'dan indirilen hello-world imajı ayağa kaldırma
 `docker search hello-world`
