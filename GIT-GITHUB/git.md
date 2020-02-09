@@ -3,7 +3,7 @@
 ## CHAPTER 1
 
 ### Git nedir?
-Neredeyse tüm dosya tipleri ile kullanılabilen bir versiyon kontrol sistemi. Versiyonlar arası geçiş yapılabilir. Dallanma ile beraber proje geliştirilebilir. Github, git ile entegre bir repository yönetim alanıdır.
+Neredeyse tüm dosya tipleri ile kullanılabilen bir versiyon kontrol sistemi. Versiyonlar arası geçiş yapılabilir. Dallanma ile birçok kişi beraber proje geliştirebilir. Github, git ile entegre bir repository yönetim alanıdır.
 
 ### Git projesi oluşturma.
 * `git init` <br />
