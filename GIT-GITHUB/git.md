@@ -208,7 +208,8 @@ git commit
 https://youtu.be/jJFd__VX-GU	
 
 
-CHAPTER 10
+CHAPTER 10 (RESOURCES)
 GITHUB BEST PRACTICES
 https://resources.github.com/videos/github-best-practices/
-
+GIT-BOOK
+https://git-scm.com/book/en/v2
