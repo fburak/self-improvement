@@ -15,27 +15,30 @@ Neredeyse tüm dosya tipleri ile kullanılabilen bir versiyon kontrol sistemi. V
 * `git log` <br />
 
 ### DIFF
-nano carpma.py
-nano bolme.py
-git diff
-git diff carpma.py
-git diff bolme.py
+* `nano carpma.py` <br />
+* `nano bolme.py` <br />
+* `git diff` <br />
+* `git diff carpma.py` <br />
+* `git diff bolme.py` <br />
 
 ### REMOVE
-1
-Delete carpma.py
-git add carpma.py
-2
-git rm -r(for folder) carpma.py
-git commit -m “carpma.py silindi”
+#### METHOD-1
+* `"Manually Delete carpma.py"` <br />
+* `git add carpma.py` <br />
+
+#### METHOD-2
+* `git rm -r(for folder) carpma.py` <br />
+
+* `git commit -m “carpma.py silindi”` <br />
 
 ### RENAME
-1
-Rename carpma.py → carpma.txt
-git add carpma.txt
-2
-git mv -r(for folder) carpma.py
-git commit -m “carpma.py → carpma.txt”
+#### METHOD-1
+* `"Manually Rename carpma.py → carpma.txt"` <br />
+* `git add carpma.txt` <br />
+#### METHOD-2
+* `git mv -r(for folder) carpma.py` <br />
+
+* `git commit -m “carpma.py → carpma.txt”` <br />
 
 
 # CHAPTER 2
